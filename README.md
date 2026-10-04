@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Nabin 👋
 
-<!--
-**nabin-sketch770/nabin-sketch770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Blockchain Developer | Smart Contract & DApp Development
 
-Here are some ideas to get you started:
+I'm interested in Blockchain, Web3, Smart Contract Security
+and decentralized applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Solidity
+- JavaScript
+- Ethers.js
+- Hardhat
+- React / Next.js
+- Python
+- SQL
+
+## 🚀 Projects
+
+### EasyTransactionVault
+A Solidity-based transaction vault for managing ETH deposits
+and withdrawals.
+
+### SimpleWallet
+A simple Ethereum wallet smart contract with deposit,
+withdrawal and balance management.
+
+### SUPERToken
+An ERC-20 token project demonstrating token creation
+and ownership.
+
+## 📚 Currently Learning
+
+- Smart Contract Security
+- DApp Development
+- Web3 Security
